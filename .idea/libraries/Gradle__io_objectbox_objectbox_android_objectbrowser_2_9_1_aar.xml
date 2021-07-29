@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.objectbox:objectbox-android-objectbrowser:2.9.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ffe7dab38790f9b79f55d0ff4fd86de/jetified-objectbox-android-objectbrowser-2.9.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ffe7dab38790f9b79f55d0ff4fd86de/jetified-objectbox-android-objectbrowser-2.9.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1ffe7dab38790f9b79f55d0ff4fd86de/jetified-objectbox-android-objectbrowser-2.9.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.objectbox/objectbox-android-objectbrowser/2.9.1/8b7ffd8e145c34c880f2b2e62d5c7bbe9b5d46ae/objectbox-android-objectbrowser-2.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
